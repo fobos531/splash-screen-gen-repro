@@ -4,7 +4,7 @@
     "slug": "splash-screen-gen-repro",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/launcher.png",
+    "icon": "./assets/images/ic_launcher.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -13,10 +13,9 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/icon-android-foreground-7.png",
-        "monochromeImage": "./assets/images/icon-android-foreground-7.png",
-        "backgroundImage": "./assets/images/icon-android-background.png",
-        "backgroundColor": "#E7E542"
+        "foregroundImage": "./assets/images/icon-foreground.png",
+        "monochromeImage": "./assets/images/icon-foreground.png",
+        "backgroundImage": "./assets/images/ic_launcher_background.png"
       },
       "package": "com.jakov.glavina.splashscreengenrepro"
     },
